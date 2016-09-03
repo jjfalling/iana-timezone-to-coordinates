@@ -1,0 +1,1678 @@
+{
+  "America/North_Dakota/Beulah": {
+    "longitude": "-101.7772",
+    "latitude": "47.2681"
+  },
+  "Europe/Tallinn": {
+    "longitude": "24.7453",
+    "latitude": "59.4372"
+  },
+  "Asia/Oral": {
+    "latitude": "51.2333",
+    "longitude": "51.3667"
+  },
+  "America/Marigot": {
+    "longitude": "-63.0822",
+    "latitude": "18.0731"
+  },
+  "America/Inuvik": {
+    "latitude": "68.3617",
+    "longitude": "-133.7306"
+  },
+  "Asia/Irkutsk": {
+    "latitude": "52.3122",
+    "longitude": "104.2958"
+  },
+  "America/Kralendijk": {
+    "latitude": "12.1507",
+    "longitude": "-68.2767"
+  },
+  "America/Tijuana": {
+    "longitude": "-117.0333",
+    "latitude": "32.5250"
+  },
+  "Europe/Riga": {
+    "latitude": "56.9489",
+    "longitude": "24.1064"
+  },
+  "Indian/Mauritius": {
+    "latitude": "-20.2000",
+    "longitude": "57.5000"
+  },
+  "America/Winnipeg": {
+    "longitude": "-97.1392",
+    "latitude": "49.8994"
+  },
+  "Europe/Tirane": {
+    "latitude": "41.3260",
+    "longitude": "19.8160"
+  },
+  "America/Belem": {
+    "latitude": "-1.4558",
+    "longitude": "-48.5039"
+  },
+  "Pacific/Pago_Pago": {
+    "longitude": "-170.7006",
+    "latitude": "-14.2794"
+  },
+  "Europe/Sofia": {
+    "longitude": "23.3333",
+    "latitude": "42.7000"
+  },
+  "America/Blanc-Sablon": {
+    "longitude": "-57.1333",
+    "latitude": "51.4167"
+  },
+  "America/Juneau": {
+    "latitude": "58.3000",
+    "longitude": "-134.4167"
+  },
+  "Australia/Lord_Howe": {
+    "latitude": "-31.5500",
+    "longitude": "159.0833"
+  },
+  "Asia/Amman": {
+    "latitude": "31.9497",
+    "longitude": "35.9328"
+  },
+  "America/Sitka": {
+    "latitude": "57.0516",
+    "longitude": "-135.3386"
+  },
+  "Asia/Urumqi": {
+    "longitude": "87.6000",
+    "latitude": "43.8250"
+  },
+  "America/Fortaleza": {
+    "longitude": "-38.5428",
+    "latitude": "-3.7183"
+  },
+  "Europe/Sarajevo": {
+    "latitude": "43.8667",
+    "longitude": "18.4167"
+  },
+  "Asia/Hebron": {
+    "longitude": "35.0950",
+    "latitude": "31.5333"
+  },
+  "Asia/Seoul": {
+    "longitude": "126.9667",
+    "latitude": "37.5667"
+  },
+  "Asia/Aqtobe": {
+    "latitude": "50.2833",
+    "longitude": "57.1667"
+  },
+  "America/Guyana": {
+    "latitude": "5.0000",
+    "longitude": "-58.7500"
+  },
+  "Asia/Srednekolymsk": {
+    "latitude": "67.4500",
+    "longitude": "153.7167"
+  },
+  "Asia/Tehran": {
+    "latitude": "35.6961",
+    "longitude": "51.4231"
+  },
+  "America/Menominee": {
+    "longitude": "-87.6142",
+    "latitude": "45.1078"
+  },
+  "America/Anguilla": {
+    "latitude": "18.2272",
+    "longitude": "-63.0490"
+  },
+  "America/Lima": {
+    "longitude": "-77.0283",
+    "latitude": "-12.0433"
+  },
+  "America/Puerto_Rico": {
+    "latitude": "18.4500",
+    "longitude": "-66.1000"
+  },
+  "Europe/Oslo": {
+    "longitude": "10.7500",
+    "latitude": "59.9500"
+  },
+  "America/Thunder_Bay": {
+    "latitude": "48.3822",
+    "longitude": "-89.2461"
+  },
+  "Pacific/Galapagos": {
+    "latitude": "-0.6667",
+    "longitude": "-90.5500"
+  },
+  "Asia/Vladivostok": {
+    "latitude": "43.1333",
+    "longitude": "131.9000"
+  },
+  "Europe/Amsterdam": {
+    "longitude": "4.9000",
+    "latitude": "52.3667"
+  },
+  "Europe/Moscow": {
+    "latitude": "55.7500",
+    "longitude": "37.6167"
+  },
+  "Europe/Ljubljana": {
+    "latitude": "46.0556",
+    "longitude": "14.5083"
+  },
+  "America/Iqaluit": {
+    "latitude": "63.7486",
+    "longitude": "-68.5197"
+  },
+  "Africa/Monrovia": {
+    "longitude": "-10.8014",
+    "latitude": "6.3133"
+  },
+  "Europe/Athens": {
+    "longitude": "23.7167",
+    "latitude": "37.9667"
+  },
+  "Indian/Cocos": {
+    "latitude": "-12.1167",
+    "longitude": "96.9000"
+  },
+  "America/Argentina/Mendoza": {
+    "longitude": "-68.8167",
+    "latitude": "-32.8833"
+  },
+  "Indian/Maldives": {
+    "latitude": "3.2000",
+    "longitude": "73.2200"
+  },
+  "America/Moncton": {
+    "latitude": "46.1328",
+    "longitude": "-64.7714"
+  },
+  "Africa/Porto-Novo": {
+    "latitude": "6.4972",
+    "longitude": "2.6050"
+  },
+  "America/Los_Angeles": {
+    "latitude": "34.0500",
+    "longitude": "-118.2500"
+  },
+  "Africa/Asmara": {
+    "longitude": "38.9333",
+    "latitude": "15.3333"
+  },
+  "America/Regina": {
+    "latitude": "50.4547",
+    "longitude": "-104.6067"
+  },
+  "America/Panama": {
+    "longitude": "-79.5167",
+    "latitude": "8.9833"
+  },
+  "Asia/Choibalsan": {
+    "latitude": "48.0783",
+    "longitude": "114.5350"
+  },
+  "America/El_Salvador": {
+    "longitude": "-89.1667",
+    "latitude": "13.6667"
+  },
+  "America/Guayaquil": {
+    "longitude": "-79.8833",
+    "latitude": "-2.1833"
+  },
+  "America/Dominica": {
+    "latitude": "15.3000",
+    "longitude": "-61.3833"
+  },
+  "Australia/Currie": {
+    "latitude": "-39.9311",
+    "longitude": "143.8506"
+  },
+  "America/Jamaica": {
+    "longitude": "-77.3218",
+    "latitude": "18.1824"
+  },
+  "Asia/Macau": {
+    "latitude": "22.1667",
+    "longitude": "113.5500"
+  },
+  "Asia/Vientiane": {
+    "longitude": "102.6000",
+    "latitude": "17.9667"
+  },
+  "Asia/Hovd": {
+    "longitude": "92.7500",
+    "latitude": "47.0000"
+  },
+  "America/Swift_Current": {
+    "latitude": "50.2881",
+    "longitude": "-107.7939"
+  },
+  "America/Argentina/Catamarca": {
+    "longitude": "-65.7833",
+    "latitude": "-28.4667"
+  },
+  "Asia/Khandyga": {
+    "latitude": "62.6667",
+    "longitude": "135.6000"
+  },
+  "Atlantic/Faroe": {
+    "latitude": "62.0000",
+    "longitude": "-6.7833"
+  },
+  "America/Ojinaga": {
+    "latitude": "29.5644",
+    "longitude": "-104.4164"
+  },
+  "Europe/Zaporozhye": {
+    "latitude": "47.8333",
+    "longitude": "35.1667"
+  },
+  "America/Tortola": {
+    "latitude": "18.4233",
+    "longitude": "-64.6181"
+  },
+  "Europe/Samara": {
+    "longitude": "50.1408",
+    "latitude": "53.2028"
+  },
+  "Africa/Conakry": {
+    "longitude": "-13.7122",
+    "latitude": "9.5092"
+  },
+  "Asia/Rangoon": {
+    "latitude": "16.8000",
+    "longitude": "96.1500"
+  },
+  "America/Indiana/Indianapolis": {
+    "longitude": "-86.1480",
+    "latitude": "39.7910"
+  },
+  "America/Thule": {
+    "latitude": "76.5311",
+    "longitude": "-68.7031"
+  },
+  "America/Indiana/Knox": {
+    "longitude": "-86.6225",
+    "latitude": "41.2942"
+  },
+  "Europe/Vaduz": {
+    "latitude": "47.1410",
+    "longitude": "9.5210"
+  },
+  "Australia/Eucla": {
+    "latitude": "-31.6750",
+    "longitude": "128.8831"
+  },
+  "Australia/Hobart": {
+    "latitude": "-42.8806",
+    "longitude": "147.3250"
+  },
+  "America/Yellowknife": {
+    "longitude": "-114.3975",
+    "latitude": "62.4422"
+  },
+  "Antarctica/DumontDUrville": {
+    "latitude": "-66.6628",
+    "longitude": "140.0019"
+  },
+  "Pacific/Fiji": {
+    "latitude": "-18.0000",
+    "longitude": "179.0000"
+  },
+  "Europe/Prague": {
+    "latitude": "50.0833",
+    "longitude": "14.4167"
+  },
+  "Africa/Sao_Tome": {
+    "latitude": "0.3361",
+    "longitude": "6.6814"
+  },
+  "Europe/Volgograd": {
+    "latitude": "48.7000",
+    "longitude": "44.5167"
+  },
+  "Pacific/Chuuk": {
+    "latitude": "7.4167",
+    "longitude": "151.7833"
+  },
+  "Pacific/Port_Moresby": {
+    "latitude": "-9.5136",
+    "longitude": "147.2188"
+  },
+  "Europe/Guernsey": {
+    "latitude": "49.4500",
+    "longitude": "-2.5500"
+  },
+  "America/Argentina/Salta": {
+    "longitude": "-65.4167",
+    "latitude": "-24.7833"
+  },
+  "Indian/Mayotte": {
+    "latitude": "-12.8431",
+    "longitude": "45.1383"
+  },
+  "America/Montevideo": {
+    "longitude": "-56.1819",
+    "latitude": "-34.8836"
+  },
+  "Australia/Perth": {
+    "longitude": "115.8589",
+    "latitude": "-31.9522"
+  },
+  "America/Argentina/Buenos_Aires": {
+    "longitude": "-58.3817",
+    "latitude": "-34.6033"
+  },
+  "Asia/Ho_Chi_Minh": {
+    "latitude": "10.7500",
+    "longitude": "106.6667"
+  },
+  "Africa/Gaborone": {
+    "latitude": "-24.6581",
+    "longitude": "25.9122"
+  },
+  "America/Cuiaba": {
+    "longitude": "-56.0969",
+    "latitude": "-15.5958"
+  },
+  "America/Goose_Bay": {
+    "longitude": "-60.4167",
+    "latitude": "53.3019"
+  },
+  "Asia/Ust-Nera": {
+    "latitude": "64.5681",
+    "longitude": "143.2361"
+  },
+  "Asia/Tashkent": {
+    "longitude": "69.2167",
+    "latitude": "41.2667"
+  },
+  "America/Porto_Velho": {
+    "latitude": "-8.7619",
+    "longitude": "-63.9039"
+  },
+  "America/Guadeloupe": {
+    "longitude": "-61.5833",
+    "latitude": "16.2500"
+  },
+  "Africa/Djibouti": {
+    "longitude": "43.1667",
+    "latitude": "11.6000"
+  },
+  "Atlantic/South_Georgia": {
+    "latitude": "-54.2500",
+    "longitude": "-36.7500"
+  },
+  "Pacific/Saipan": {
+    "latitude": "15.1833",
+    "longitude": "145.7500"
+  },
+  "America/Boise": {
+    "longitude": "-116.2000",
+    "latitude": "43.6167"
+  },
+  "Pacific/Guadalcanal": {
+    "longitude": "160.1833",
+    "latitude": "-9.6167"
+  },
+  "America/Mexico_City": {
+    "latitude": "19.4333",
+    "longitude": "-99.1333"
+  },
+  "America/Santo_Domingo": {
+    "latitude": "18.4667",
+    "longitude": "-69.9500"
+  },
+  "Australia/Sydney": {
+    "longitude": "151.2094",
+    "latitude": "-33.8650"
+  },
+  "America/Hermosillo": {
+    "longitude": "-110.9542",
+    "latitude": "29.0989"
+  },
+  "America/Belize": {
+    "longitude": "-88.7667",
+    "latitude": "17.2500"
+  },
+  "Asia/Sakhalin": {
+    "longitude": "143.0000",
+    "latitude": "51.0000"
+  },
+  "Africa/Tripoli": {
+    "latitude": "32.9022",
+    "longitude": "13.1858"
+  },
+  "America/Kentucky/Monticello": {
+    "latitude": "36.8381",
+    "longitude": "-84.8500"
+  },
+  "America/Indiana/Vincennes": {
+    "latitude": "38.6783",
+    "longitude": "-87.5161"
+  },
+  "America/Chicago": {
+    "longitude": "-87.6847",
+    "latitude": "41.8369"
+  },
+  "Europe/Skopje": {
+    "longitude": "21.4333",
+    "latitude": "42.0000"
+  },
+  "Asia/Pontianak": {
+    "latitude": "-0.0000",
+    "longitude": "109.3333"
+  },
+  "America/Boa_Vista": {
+    "longitude": "-22.8035",
+    "latitude": "16.1033"
+  },
+  "America/Argentina/La_Rioja": {
+    "longitude": "-66.8542",
+    "latitude": "-29.4125"
+  },
+  "Europe/Kaliningrad": {
+    "latitude": "54.7167",
+    "longitude": "20.5167"
+  },
+  "Africa/Lome": {
+    "latitude": "6.1319",
+    "longitude": "1.2228"
+  },
+  "America/Havana": {
+    "latitude": "23.1333",
+    "longitude": "-82.3833"
+  },
+  "Atlantic/Canary": {
+    "longitude": "-15.7659",
+    "latitude": "28.5718"
+  },
+  "Europe/Lisbon": {
+    "longitude": "-9.1394",
+    "latitude": "38.7139"
+  },
+  "America/Indiana/Petersburg": {
+    "latitude": "38.4917",
+    "longitude": "-87.2803"
+  },
+  "Asia/Baghdad": {
+    "latitude": "33.3333",
+    "longitude": "44.4333"
+  },
+  "Indian/Reunion": {
+    "latitude": "-21.1144",
+    "longitude": "55.5325"
+  },
+  "Africa/Lagos": {
+    "latitude": "6.4531",
+    "longitude": "3.3958"
+  },
+  "Pacific/Funafuti": {
+    "longitude": "179.1833",
+    "latitude": "-8.5000"
+  },
+  "Africa/Abidjan": {
+    "latitude": "5.3167",
+    "longitude": "-4.0333"
+  },
+  "Africa/Ouagadougou": {
+    "longitude": "-1.5353",
+    "latitude": "12.3572"
+  },
+  "America/Argentina/Cordoba": {
+    "latitude": "37.8833",
+    "longitude": "-4.7667"
+  },
+  "Europe/Luxembourg": {
+    "longitude": "6.1300",
+    "latitude": "49.6117"
+  },
+  "Europe/Isle_of_Man": {
+    "latitude": "54.2500",
+    "longitude": "-4.5000"
+  },
+  "Pacific/Kwajalein": {
+    "latitude": "8.7167",
+    "longitude": "167.7333"
+  },
+  "America/Grand_Turk": {
+    "latitude": "21.4722",
+    "longitude": "-71.1389"
+  },
+  "Europe/Simferopol": {
+    "latitude": "44.9519",
+    "longitude": "34.1022"
+  },
+  "America/Santa_Isabel": {
+    "longitude": "-66.4050",
+    "latitude": "17.9661"
+  },
+  "Europe/Istanbul": {
+    "longitude": "28.9550",
+    "latitude": "41.0136"
+  },
+  "Europe/Paris": {
+    "latitude": "48.8788",
+    "longitude": "2.3224"
+  },
+  "Pacific/Apia": {
+    "latitude": "-13.8333",
+    "longitude": "-171.7500"
+  },
+  "America/Toronto": {
+    "longitude": "-79.4000",
+    "latitude": "43.7000"
+  },
+  "Africa/Addis_Ababa": {
+    "latitude": "9.0300",
+    "longitude": "38.7400"
+  },
+  "Africa/Freetown": {
+    "latitude": "8.4844",
+    "longitude": "-13.2344"
+  },
+  "Asia/Riyadh": {
+    "longitude": "46.7167",
+    "latitude": "24.6333"
+  },
+  "Europe/Malta": {
+    "longitude": "14.5000",
+    "latitude": "35.8833"
+  },
+  "Africa/Algiers": {
+    "longitude": "3.2167",
+    "latitude": "36.7667"
+  },
+  "Africa/Lusaka": {
+    "latitude": "-15.4167",
+    "longitude": "28.2833"
+  },
+  "Pacific/Chatham": {
+    "longitude": "-176.4333",
+    "latitude": "-44.0333"
+  },
+  "Asia/Magadan": {
+    "longitude": "150.8000",
+    "latitude": "59.5667"
+  },
+  "America/Mazatlan": {
+    "latitude": "23.2200",
+    "longitude": "-106.4200"
+  },
+  "America/Paramaribo": {
+    "longitude": "-55.1667",
+    "latitude": "5.8667"
+  },
+  "America/Matamoros": {
+    "latitude": "25.8797",
+    "longitude": "-97.5042"
+  },
+  "Asia/Pyongyang": {
+    "longitude": "125.7381",
+    "latitude": "39.0194"
+  },
+  "Europe/Berlin": {
+    "longitude": "13.3833",
+    "latitude": "52.5167"
+  },
+  "America/Vancouver": {
+    "longitude": "-122.6000",
+    "latitude": "45.6333"
+  },
+  "Asia/Novosibirsk": {
+    "latitude": "55.0167",
+    "longitude": "82.9333"
+  },
+  "Europe/Chisinau": {
+    "latitude": "47.0000",
+    "longitude": "28.9167"
+  },
+  "Asia/Kathmandu": {
+    "longitude": "85.3333",
+    "latitude": "27.7000"
+  },
+  "Asia/Aqtau": {
+    "longitude": "51.1500",
+    "latitude": "43.6500"
+  },
+  "Asia/Ulaanbaatar": {
+    "latitude": "47.9200",
+    "longitude": "106.9200"
+  },
+  "Antarctica/Rothera": {
+    "longitude": "-68.1333",
+    "latitude": "-67.5667"
+  },
+  "America/Asuncion": {
+    "latitude": "-25.2667",
+    "longitude": "-57.6333"
+  },
+  "Africa/Maseru": {
+    "latitude": "-29.3100",
+    "longitude": "27.4800"
+  },
+  "America/Cancun": {
+    "latitude": "21.1606",
+    "longitude": "-86.8475"
+  },
+  "Pacific/Enderbury": {
+    "longitude": "-171.0833",
+    "latitude": "-3.1333"
+  },
+  "Africa/Kigali": {
+    "latitude": "-1.9439",
+    "longitude": "30.0594"
+  },
+  "America/Indiana/Tell_City": {
+    "longitude": "-86.7614",
+    "latitude": "37.9531"
+  },
+  "America/Nome": {
+    "longitude": "-165.3994",
+    "latitude": "64.5039"
+  },
+  "Australia/Darwin": {
+    "latitude": "-12.4500",
+    "longitude": "130.8333"
+  },
+  "Europe/London": {
+    "longitude": "-0.1275",
+    "latitude": "51.5072"
+  },
+  "Indian/Comoro": {
+    "latitude": "-11.6833",
+    "longitude": "43.2667"
+  },
+  "Asia/Dushanbe": {
+    "longitude": "68.7800",
+    "latitude": "38.5367"
+  },
+  "Pacific/Nauru": {
+    "longitude": "166.9333",
+    "latitude": "-0.5333"
+  },
+  "Pacific/Tarawa": {
+    "longitude": "173.0333",
+    "latitude": "1.4167"
+  },
+  "America/St_Kitts": {
+    "longitude": "-62.7333",
+    "latitude": "17.3000"
+  },
+  "Africa/Kinshasa": {
+    "longitude": "15.3222",
+    "latitude": "-4.3250"
+  },
+  "Pacific/Rarotonga": {
+    "latitude": "-21.2333",
+    "longitude": "-159.7833"
+  },
+  "Africa/Brazzaville": {
+    "latitude": "-4.2678",
+    "longitude": "15.2919"
+  },
+  "Africa/El_Aaiun": {
+    "latitude": "27.1536",
+    "longitude": "-13.2033"
+  },
+  "Australia/Melbourne": {
+    "latitude": "-37.8136",
+    "longitude": "144.9631"
+  },
+  "America/Chihuahua": {
+    "latitude": "28.8167",
+    "longitude": "-106.4333"
+  },
+  "Europe/Mariehamn": {
+    "latitude": "60.1000",
+    "longitude": "19.9333"
+  },
+  "Asia/Brunei": {
+    "longitude": "114.9422",
+    "latitude": "4.8903"
+  },
+  "America/Cayman": {
+    "latitude": "19.3333",
+    "longitude": "-81.4000"
+  },
+  "Asia/Jayapura": {
+    "longitude": "140.7170",
+    "latitude": "-2.5330"
+  },
+  "Africa/Bujumbura": {
+    "latitude": "-3.3833",
+    "longitude": "29.3667"
+  },
+  "America/Managua": {
+    "longitude": "-86.2514",
+    "latitude": "12.1364"
+  },
+  "Australia/Adelaide": {
+    "longitude": "138.6010",
+    "latitude": "-34.9290"
+  },
+  "America/Pangnirtung": {
+    "longitude": "-65.6994",
+    "latitude": "66.1478"
+  },
+  "America/Metlakatla": {
+    "longitude": "-131.5764",
+    "latitude": "55.1269"
+  },
+  "America/St_Thomas": {
+    "latitude": "18.3333",
+    "longitude": "-64.9167"
+  },
+  "Asia/Taipei": {
+    "longitude": "121.6333",
+    "latitude": "25.0333"
+  },
+  "Europe/Gibraltar": {
+    "longitude": "-5.3530",
+    "latitude": "36.1430"
+  },
+  "Atlantic/Reykjavik": {
+    "longitude": "-21.9333",
+    "latitude": "64.1333"
+  },
+  "Pacific/Efate": {
+    "longitude": "168.4167",
+    "latitude": "-17.6667"
+  },
+  "Asia/Omsk": {
+    "longitude": "73.3667",
+    "latitude": "54.9833"
+  },
+  "America/Barbados": {
+    "latitude": "13.1667",
+    "longitude": "-59.5500"
+  },
+  "Africa/Cairo": {
+    "longitude": "31.2333",
+    "latitude": "30.0500"
+  },
+  "Asia/Thimphu": {
+    "longitude": "89.6417",
+    "latitude": "27.4667"
+  },
+  "Europe/Uzhgorod": {
+    "longitude": "22.3000",
+    "latitude": "48.6239"
+  },
+  "Asia/Makassar": {
+    "longitude": "119.4167",
+    "latitude": "-5.1333"
+  },
+  "Asia/Baku": {
+    "longitude": "49.8822",
+    "latitude": "40.3953"
+  },
+  "Asia/Jerusalem": {
+    "latitude": "31.7833",
+    "longitude": "35.2167"
+  },
+  "Asia/Samarkand": {
+    "latitude": "39.7000",
+    "longitude": "66.9833"
+  },
+  "Pacific/Pohnpei": {
+    "latitude": "6.8500",
+    "longitude": "158.2333"
+  },
+  "Pacific/Kiritimati": {
+    "longitude": "-157.4000",
+    "latitude": "1.8667"
+  },
+  "America/Aruba": {
+    "longitude": "-69.9667",
+    "latitude": "12.5000"
+  },
+  "Asia/Bishkek": {
+    "latitude": "42.8747",
+    "longitude": "74.6122"
+  },
+  "Africa/Mbabane": {
+    "longitude": "31.1333",
+    "latitude": "-26.3167"
+  },
+  "Indian/Chagos": {
+    "latitude": "-6.0000",
+    "longitude": "71.5000"
+  },
+  "Africa/Ceuta": {
+    "longitude": "-5.3156",
+    "latitude": "35.8883"
+  },
+  "Indian/Antananarivo": {
+    "longitude": "47.5167",
+    "latitude": "-18.9333"
+  },
+  "Asia/Qatar": {
+    "latitude": "25.3000",
+    "longitude": "51.5167"
+  },
+  "Asia/Colombo": {
+    "latitude": "6.9344",
+    "longitude": "79.8428"
+  },
+  "America/Rainy_River": {
+    "latitude": "48.7167",
+    "longitude": "-94.5667"
+  },
+  "Pacific/Niue": {
+    "latitude": "-19.0500",
+    "longitude": "-169.9167"
+  },
+  "Antarctica/Casey": {
+    "latitude": "-66.2817",
+    "longitude": "110.5244"
+  },
+  "Africa/Libreville": {
+    "latitude": "0.3901",
+    "longitude": "9.4544"
+  },
+  "Antarctica/Macquarie": {
+    "latitude": "-54.6167",
+    "longitude": "158.8500"
+  },
+  "America/Indiana/Marengo": {
+    "longitude": "-86.3433",
+    "latitude": "38.3706"
+  },
+  "Africa/Windhoek": {
+    "longitude": "17.0836",
+    "latitude": "-22.5700"
+  },
+  "Africa/Khartoum": {
+    "latitude": "15.6333",
+    "longitude": "32.5333"
+  },
+  "Europe/Helsinki": {
+    "latitude": "60.1708",
+    "longitude": "24.9375"
+  },
+  "Asia/Novokuznetsk": {
+    "latitude": "53.7500",
+    "longitude": "87.1167"
+  },
+  "America/Caracas": {
+    "latitude": "10.5000",
+    "longitude": "-66.9167"
+  },
+  "Asia/Karachi": {
+    "longitude": "67.0100",
+    "latitude": "24.8600"
+  },
+  "Africa/Bissau": {
+    "longitude": "-15.5667",
+    "latitude": "11.8500"
+  },
+  "Pacific/Midway": {
+    "latitude": "28.2000",
+    "longitude": "-177.3500"
+  },
+  "Africa/Nouakchott": {
+    "longitude": "-15.9500",
+    "latitude": "18.1000"
+  },
+  "Africa/Banjul": {
+    "latitude": "13.4531",
+    "longitude": "-16.5775"
+  },
+  "Antarctica/Davis": {
+    "latitude": "-68.5764",
+    "longitude": "77.9689"
+  },
+  "Africa/Ndjamena": {
+    "latitude": "12.1131",
+    "longitude": "15.0492"
+  },
+  "Pacific/Bougainville": {
+    "longitude": "155.3839",
+    "latitude": "-6.2444"
+  },
+  "Antarctica/Mawson": {
+    "longitude": "62.8748",
+    "latitude": "-67.6021"
+  },
+  "Africa/Lubumbashi": {
+    "longitude": "27.4667",
+    "latitude": "-11.6667"
+  },
+  "Asia/Yekaterinburg": {
+    "longitude": "60.5833",
+    "latitude": "56.8333"
+  },
+  "America/Kentucky/Louisville": {
+    "longitude": "-85.7667",
+    "latitude": "38.2500"
+  },
+  "America/Miquelon": {
+    "latitude": "46.7833",
+    "longitude": "-56.2000"
+  },
+  "America/Anchorage": {
+    "longitude": "-149.9000",
+    "latitude": "61.2167"
+  },
+  "Europe/Madrid": {
+    "latitude": "40.4000",
+    "longitude": "-3.7167"
+  },
+  "Pacific/Tongatapu": {
+    "longitude": "-175.1531",
+    "latitude": "-21.2114"
+  },
+  "Africa/Accra": {
+    "longitude": "-0.2000",
+    "latitude": "5.5500"
+  },
+  "Asia/Yerevan": {
+    "longitude": "44.5167",
+    "latitude": "40.1833"
+  },
+  "America/Santiago": {
+    "longitude": "-70.6667",
+    "latitude": "-33.4500"
+  },
+  "Europe/Stockholm": {
+    "latitude": "59.3294",
+    "longitude": "18.0686"
+  },
+  "Africa/Kampala": {
+    "longitude": "32.5811",
+    "latitude": "0.3136"
+  },
+  "America/Santarem": {
+    "longitude": "-54.7200",
+    "latitude": "-2.4300"
+  },
+  "Antarctica/Troll": {
+    "longitude": "2.5350",
+    "latitude": "-72.0114"
+  },
+  "Pacific/Tahiti": {
+    "latitude": "-17.6667",
+    "longitude": "-149.4167"
+  },
+  "Asia/Nicosia": {
+    "latitude": "35.1667",
+    "longitude": "33.3667"
+  },
+  "Europe/San_Marino": {
+    "latitude": "43.9346",
+    "longitude": "12.4473"
+  },
+  "Asia/Kuching": {
+    "longitude": "110.3450",
+    "latitude": "1.5600"
+  },
+  "Africa/Casablanca": {
+    "latitude": "33.5333",
+    "longitude": "-7.5833"
+  },
+  "Asia/Chita": {
+    "latitude": "52.0500",
+    "longitude": "113.4667"
+  },
+  "Asia/Jakarta": {
+    "longitude": "106.8227",
+    "latitude": "-6.1745"
+  },
+  "America/Argentina/Tucuman": {
+    "longitude": "-65.3400",
+    "latitude": "-26.9400"
+  },
+  "America/Creston": {
+    "longitude": "-116.3100",
+    "latitude": "49.0600"
+  },
+  "Europe/Zurich": {
+    "longitude": "8.5500",
+    "latitude": "47.3667"
+  },
+  "Indian/Christmas": {
+    "longitude": "105.6333",
+    "latitude": "-10.4833"
+  },
+  "Europe/Kiev": {
+    "longitude": "30.5233",
+    "latitude": "50.4500"
+  },
+  "Asia/Shanghai": {
+    "longitude": "121.5000",
+    "latitude": "31.2000"
+  },
+  "Atlantic/St_Helena": {
+    "longitude": "-5.7167",
+    "latitude": "-15.9500"
+  },
+  "America/Monterrey": {
+    "latitude": "25.6667",
+    "longitude": "-100.3000"
+  },
+  "Africa/Johannesburg": {
+    "longitude": "28.0456",
+    "latitude": "-26.2044"
+  },
+  "Australia/Broken_Hill": {
+    "longitude": "141.4678",
+    "latitude": "-31.9567"
+  },
+  "Australia/Brisbane": {
+    "longitude": "153.0333",
+    "latitude": "-27.4667"
+  },
+  "Atlantic/Cape_Verde": {
+    "latitude": "15.1111",
+    "longitude": "-23.6167"
+  },
+  "Africa/Dar_es_Salaam": {
+    "longitude": "39.2833",
+    "latitude": "-6.8000"
+  },
+  "America/Eirunepe": {
+    "longitude": "-69.8739",
+    "latitude": "-6.6600"
+  },
+  "Atlantic/Azores": {
+    "latitude": "37.7411",
+    "longitude": "-25.6756"
+  },
+  "Europe/Dublin": {
+    "longitude": "-6.2597",
+    "latitude": "53.3478"
+  },
+  "America/La_Paz": {
+    "latitude": "-16.5000",
+    "longitude": "-68.1500"
+  },
+  "Africa/Bamako": {
+    "latitude": "12.6500",
+    "longitude": "-8.0000"
+  },
+  "America/North_Dakota/New_Salem": {
+    "longitude": "-101.4119",
+    "latitude": "46.8431"
+  },
+  "Europe/Budapest": {
+    "longitude": "19.0514",
+    "latitude": "47.4925"
+  },
+  "America/Tegucigalpa": {
+    "latitude": "14.1000",
+    "longitude": "-87.2167"
+  },
+  "America/Cambridge_Bay": {
+    "latitude": "69.1172",
+    "longitude": "-105.0531"
+  },
+  "America/Sao_Paulo": {
+    "latitude": "-23.5500",
+    "longitude": "-46.6333"
+  },
+  "Asia/Almaty": {
+    "latitude": "43.2775",
+    "longitude": "76.8958"
+  },
+  "America/Indiana/Winamac": {
+    "longitude": "-86.6000",
+    "latitude": "41.0500"
+  },
+  "America/Dawson": {
+    "latitude": "64.0600",
+    "longitude": "-139.4108"
+  },
+  "Antarctica/Syowa": {
+    "longitude": "39.5833",
+    "latitude": "-69.0000"
+  },
+  "Africa/Mogadishu": {
+    "longitude": "45.3500",
+    "latitude": "2.0333"
+  },
+  "Europe/Vienna": {
+    "longitude": "16.3667",
+    "latitude": "48.2000"
+  },
+  "Asia/Dubai": {
+    "latitude": "25.2048",
+    "longitude": "55.2708"
+  },
+  "Pacific/Marquesas": {
+    "longitude": "-139.3889",
+    "latitude": "-9.4544"
+  },
+  "America/St_Johns": {
+    "longitude": "-52.7072",
+    "latitude": "47.5675"
+  },
+  "Indian/Kerguelen": {
+    "longitude": "69.1667",
+    "latitude": "-49.2500"
+  },
+  "Asia/Phnom_Penh": {
+    "longitude": "104.9167",
+    "latitude": "11.5500"
+  },
+  "America/St_Vincent": {
+    "longitude": "-61.2000",
+    "latitude": "13.2500"
+  },
+  "Africa/Niamey": {
+    "latitude": "13.5214",
+    "longitude": "2.1053"
+  },
+  "Asia/Bangkok": {
+    "latitude": "13.7563",
+    "longitude": "100.5018"
+  },
+  "Antarctica/Vostok": {
+    "longitude": "106.8375",
+    "latitude": "-78.4639"
+  },
+  "America/Halifax": {
+    "longitude": "-63.5714",
+    "latitude": "44.6478"
+  },
+  "Europe/Zagreb": {
+    "longitude": "15.9833",
+    "latitude": "45.8167"
+  },
+  "Atlantic/Madeira": {
+    "latitude": "32.6511",
+    "longitude": "-16.9097"
+  },
+  "Asia/Krasnoyarsk": {
+    "latitude": "56.0167",
+    "longitude": "93.0667"
+  },
+  "Asia/Kuala_Lumpur": {
+    "longitude": "101.6833",
+    "latitude": "3.1333"
+  },
+  "America/Edmonton": {
+    "longitude": "-113.5000",
+    "latitude": "53.5333"
+  },
+  "America/Rio_Branco": {
+    "longitude": "-67.8100",
+    "latitude": "-9.9747"
+  },
+  "Europe/Warsaw": {
+    "latitude": "52.2333",
+    "longitude": "21.0167"
+  },
+  "America/Argentina/Rio_Gallegos": {
+    "latitude": "-51.6333",
+    "longitude": "-69.2167"
+  },
+  "America/North_Dakota/Center": {
+    "latitude": "47.1150",
+    "longitude": "-101.3003"
+  },
+  "Europe/Copenhagen": {
+    "latitude": "55.6761",
+    "longitude": "12.5683"
+  },
+  "Asia/Kuwait": {
+    "latitude": "29.3667",
+    "longitude": "47.9667"
+  },
+  "Africa/Juba": {
+    "longitude": "31.6000",
+    "latitude": "4.8500"
+  },
+  "Pacific/Wallis": {
+    "latitude": "-13.2667",
+    "longitude": "-176.2000"
+  },
+  "Pacific/Easter": {
+    "latitude": "-27.1167",
+    "longitude": "-109.3667"
+  },
+  "America/St_Barthelemy": {
+    "longitude": "-62.8333",
+    "latitude": "17.9000"
+  },
+  "Europe/Andorra": {
+    "longitude": "1.5167",
+    "latitude": "42.5000"
+  },
+  "Arctic/Longyearbyen": {
+    "latitude": "78.2200",
+    "longitude": "15.6500"
+  },
+  "America/Nipigon": {
+    "latitude": "49.0000",
+    "longitude": "-88.4167"
+  },
+  "Africa/Maputo": {
+    "latitude": "-25.9667",
+    "longitude": "32.5833"
+  },
+  "America/Curacao": {
+    "latitude": "12.1833",
+    "longitude": "-69.0000"
+  },
+  "America/Recife": {
+    "latitude": "-8.0500",
+    "longitude": "-34.9000"
+  },
+  "Asia/Singapore": {
+    "latitude": "1.3000",
+    "longitude": "103.8000"
+  },
+  "Pacific/Honolulu": {
+    "latitude": "21.3000",
+    "longitude": "-157.8167"
+  },
+  "US/Pacific": {
+    "longitude": "-118.2500",
+    "latitude": "34.0500"
+  },
+  "Asia/Hong_Kong": {
+    "longitude": "114.1747",
+    "latitude": "22.2783"
+  },
+  "Asia/Bahrain": {
+    "longitude": "50.5500",
+    "latitude": "26.0275"
+  },
+  "Africa/Harare": {
+    "longitude": "31.0297",
+    "latitude": "-17.8639"
+  },
+  "America/Bahia_Banderas": {
+    "latitude": "20.6495",
+    "longitude": "-105.3822"
+  },
+  "Asia/Tokyo": {
+    "latitude": "35.6833",
+    "longitude": "139.6833"
+  },
+  "Australia/Lindeman": {
+    "latitude": "-20.4500",
+    "longitude": "149.0333"
+  },
+  "Asia/Damascus": {
+    "latitude": "33.5131",
+    "longitude": "36.2919"
+  },
+  "Europe/Rome": {
+    "latitude": "41.9000",
+    "longitude": "12.5000"
+  },
+  "America/Indiana/Vevay": {
+    "longitude": "-85.0711",
+    "latitude": "38.7458"
+  },
+  "America/Manaus": {
+    "longitude": "-60.0167",
+    "latitude": "-3.1000"
+  },
+  "Europe/Jersey": {
+    "longitude": "-2.1100",
+    "latitude": "49.1900"
+  },
+  "America/Martinique": {
+    "longitude": "-61.0000",
+    "latitude": "14.6667"
+  },
+  "Atlantic/Bermuda": {
+    "latitude": "32.3000",
+    "longitude": "-64.7833"
+  },
+  "Africa/Douala": {
+    "longitude": "9.7000",
+    "latitude": "4.0500"
+  },
+  "Pacific/Auckland": {
+    "latitude": "-36.8406",
+    "longitude": "174.7400"
+  },
+  "UTC": {
+    "longitude": "0.0077",
+    "latitude": "51.4826"
+  },
+  "Europe/Vilnius": {
+    "longitude": "25.2833",
+    "latitude": "54.6833"
+  },
+  "America/Danmarkshavn": {
+    "longitude": "-18.6667",
+    "latitude": "76.7667"
+  },
+  "Asia/Anadyr": {
+    "latitude": "64.7333",
+    "longitude": "177.5167"
+  },
+  "America/Antigua": {
+    "longitude": "-61.8500",
+    "latitude": "17.1167"
+  },
+  "Europe/Monaco": {
+    "longitude": "7.4197",
+    "latitude": "43.7328"
+  },
+  "Europe/Busingen": {
+    "longitude": "8.6903",
+    "latitude": "47.6969"
+  },
+  "Asia/Kamchatka": {
+    "longitude": "160.0000",
+    "latitude": "57.0000"
+  },
+  "America/St_Lucia": {
+    "latitude": "14.0167",
+    "longitude": "-60.9833"
+  },
+  "America/Port-au-Prince": {
+    "longitude": "-72.3333",
+    "latitude": "18.5333"
+  },
+  "America/Resolute": {
+    "longitude": "-94.8322",
+    "latitude": "74.6975"
+  },
+  "America/Glace_Bay": {
+    "longitude": "-59.9667",
+    "latitude": "46.2000"
+  },
+  "Antarctica/McMurdo": {
+    "latitude": "-77.8500",
+    "longitude": "166.6667"
+  },
+  "America/Argentina/San_Juan": {
+    "latitude": "18.4500",
+    "longitude": "-66.0667"
+  },
+  "America/Guatemala": {
+    "latitude": "14.6133",
+    "longitude": "-90.5353"
+  },
+  "America/Whitehorse": {
+    "longitude": "-135.0500",
+    "latitude": "60.7167"
+  },
+  "America/Port_of_Spain": {
+    "longitude": "-61.5167",
+    "latitude": "10.6667"
+  },
+  "Africa/Dakar": {
+    "longitude": "-17.4467",
+    "latitude": "14.6928"
+  },
+  "Asia/Yakutsk": {
+    "longitude": "129.7333",
+    "latitude": "62.0333"
+  },
+  "America/Merida": {
+    "latitude": "20.9700",
+    "longitude": "-89.6200"
+  },
+  "Europe/Brussels": {
+    "latitude": "50.8500",
+    "longitude": "4.3500"
+  },
+  "Europe/Belgrade": {
+    "longitude": "20.4667",
+    "latitude": "44.8167"
+  },
+  "America/Atikokan": {
+    "longitude": "-91.6167",
+    "latitude": "48.7500"
+  },
+  "America/Nassau": {
+    "longitude": "-77.3450",
+    "latitude": "25.0600"
+  },
+  "Asia/Qyzylorda": {
+    "longitude": "65.5167",
+    "latitude": "44.8500"
+  },
+  "America/Scoresbysund": {
+    "latitude": "70.5000",
+    "longitude": "-25.0000"
+  },
+  "Pacific/Pitcairn": {
+    "longitude": "-130.1000",
+    "latitude": "-25.0667"
+  },
+  "America/Argentina/Ushuaia": {
+    "latitude": "-54.8000",
+    "longitude": "-68.3000"
+  },
+  "America/New_York": {
+    "longitude": "-74.0059",
+    "latitude": "40.7127"
+  },
+  "Asia/Tbilisi": {
+    "longitude": "44.7833",
+    "latitude": "41.7167"
+  },
+  "Africa/Blantyre": {
+    "longitude": "35.0058",
+    "latitude": "-15.7861"
+  },
+  "America/Dawson_Creek": {
+    "latitude": "55.7606",
+    "longitude": "-120.2356"
+  },
+  "Pacific/Norfolk": {
+    "latitude": "-29.0333",
+    "longitude": "167.9500"
+  },
+  "America/Grenada": {
+    "latitude": "12.0500",
+    "longitude": "-61.7500"
+  },
+  "Asia/Manila": {
+    "latitude": "14.5800",
+    "longitude": "121.0000"
+  },
+  "Pacific/Kosrae": {
+    "latitude": "5.3167",
+    "longitude": "162.9833"
+  },
+  "America/Noronha": {
+    "latitude": "-3.8538",
+    "longitude": "-32.4238"
+  },
+  "America/Detroit": {
+    "latitude": "42.3314",
+    "longitude": "-83.0458"
+  },
+  "Pacific/Palau": {
+    "latitude": "7.5000",
+    "longitude": "134.6167"
+  },
+  "Asia/Gaza": {
+    "latitude": "31.4167",
+    "longitude": "34.3333"
+  },
+  "Indian/Mahe": {
+    "longitude": "75.5367",
+    "latitude": "11.7011"
+  },
+  "America/Montserrat": {
+    "longitude": "-62.2000",
+    "latitude": "16.7500"
+  },
+  "Africa/Tunis": {
+    "longitude": "10.1833",
+    "latitude": "36.8000"
+  },
+  "America/Bahia": {
+    "longitude": "-41.6900",
+    "latitude": "-12.5200"
+  },
+  "Asia/Kabul": {
+    "latitude": "34.5333",
+    "longitude": "69.1667"
+  },
+  "Europe/Podgorica": {
+    "longitude": "19.2629",
+    "latitude": "42.4413"
+  },
+  "Pacific/Fakaofo": {
+    "longitude": "-171.2150",
+    "latitude": "-9.3653"
+  },
+  "America/Bogota": {
+    "latitude": "4.5981",
+    "longitude": "-74.0758"
+  },
+  "America/Argentina/Jujuy": {
+    "latitude": "-24.1833",
+    "longitude": "-65.3000"
+  },
+  "Asia/Dhaka": {
+    "latitude": "23.7000",
+    "longitude": "90.3667"
+  },
+  "America/Denver": {
+    "latitude": "39.7392",
+    "longitude": "-104.9903"
+  },
+  "Atlantic/Stanley": {
+    "longitude": "-57.8589",
+    "latitude": "-51.6921"
+  },
+  "Europe/Vatican": {
+    "latitude": "41.9033",
+    "longitude": "12.4533"
+  },
+  "Africa/Malabo": {
+    "latitude": "3.7500",
+    "longitude": "8.7833"
+  },
+  "America/Phoenix": {
+    "latitude": "33.4500",
+    "longitude": "-112.0667"
+  },
+  "Africa/Luanda": {
+    "latitude": "-8.8383",
+    "longitude": "13.2344"
+  },
+  "Africa/Bangui": {
+    "latitude": "4.3667",
+    "longitude": "18.5833"
+  },
+  "America/Campo_Grande": {
+    "longitude": "-54.6111",
+    "latitude": "-20.4622"
+  },
+  "America/Fort_Nelson": {
+    "latitude": "58.8059",
+    "longitude": "-122.6965"
+  },
+  "Europe/Bratislava": {
+    "latitude": "48.1439",
+    "longitude": "17.1097"
+  },
+  "Pacific/Wake": {
+    "longitude": "166.6333",
+    "latitude": "19.3000"
+  },
+  "Europe/Bucharest": {
+    "latitude": "44.4268",
+    "longitude": "26.1025"
+  },
+  "America/Yakutat": {
+    "longitude": "-139.7272",
+    "latitude": "59.5469"
+  },
+  "Asia/Ashgabat": {
+    "latitude": "37.9333",
+    "longitude": "58.3667"
+  },
+  "America/Rankin_Inlet": {
+    "latitude": "62.8097",
+    "longitude": "-92.0994"
+  },
+  "America/Cayenne": {
+    "latitude": "4.9372",
+    "longitude": "-52.3260"
+  },
+  "Asia/Beirut": {
+    "latitude": "33.8869",
+    "longitude": "35.5131"
+  },
+  "Pacific/Gambier": {
+    "latitude": "-23.1400",
+    "longitude": "-134.9400"
+  },
+  "America/Costa_Rica": {
+    "latitude": "9.9333",
+    "longitude": "-84.0833"
+  },
+  "Asia/Dili": {
+    "latitude": "-8.5500",
+    "longitude": "125.5667"
+  },
+  "America/Argentina/San_Luis": {
+    "latitude": "-33.3000",
+    "longitude": "-66.3333"
+  },
+  "Pacific/Johnston": {
+    "longitude": "-169.5167",
+    "latitude": "16.7500"
+  },
+  "America/Araguaina": {
+    "latitude": "-7.1908",
+    "longitude": "-48.2069"
+  },
+  "Pacific/Noumea": {
+    "longitude": "166.4580",
+    "latitude": "-22.2758"
+  },
+  "Asia/Muscat": {
+    "longitude": "58.5400",
+    "latitude": "23.6100"
+  },
+  "Pacific/Majuro": {
+    "longitude": "171.2667",
+    "latitude": "7.0667"
+  },
+  "America/Maceio": {
+    "latitude": "-9.6658",
+    "longitude": "-35.7350"
+  },
+  "Asia/Aden": {
+    "longitude": "45.0333",
+    "latitude": "12.8000"
+  },
+  "America/Adak": {
+    "latitude": "51.8720",
+    "longitude": "-176.6360"
+  },
+  "America/Lower_Princes": {
+    "latitude": "18.0528",
+    "longitude": "-63.0425"
+  },
+  "Asia/Kolkata": {
+    "latitude": "22.5667",
+    "longitude": "88.3667"
+  },
+  "Pacific/Guam": {
+    "latitude": "13.5000",
+    "longitude": "144.8000"
+  },
+  "Africa/Nairobi": {
+    "longitude": "36.8167",
+    "latitude": "-1.2833"
+  },
+  "America/Godthab": {
+    "longitude": "-51.7389",
+    "latitude": "64.1750"
+  },
+  "Antarctica/Palmer": {
+    "longitude": "-64.0531",
+    "latitude": "-64.7742"
+  },
+  "Europe/Minsk": {
+    "latitude": "53.9000",
+    "longitude": "27.5667"
+  }
+}
